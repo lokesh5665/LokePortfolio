@@ -4,7 +4,7 @@ export const greetings = {
     name: "Lokeswara Reddy",
     title: "Hi all, I'm Lokeswara",
     description: "A passionate Full Stack Web Developer having an experience of building Web applications with JavaScript / Angular / Nodejs / Java / SpringBoot / Flask and some other cool libraries and frameworks.",
-    resumeLink: "https://cv.hanzla.ga",
+    resumeLink: "resume.pdf",
 };
 
 export const openSource = {
@@ -17,7 +17,7 @@ export const socialLinks = {
     facebook: "https://www.facebook.com/1hanzla100",
     instagram: "https://www.instagram.com/1hanzla100",
     twitter: "https://twitter.com/1hanzla100",
-    github: "https://github.com/1hanzla100",
+    github: "https://github.com/lokesh5665/",
     linkedin: "https://www.linkedin.com/in/lokeswara-reddy-831802129/",
 };
 
