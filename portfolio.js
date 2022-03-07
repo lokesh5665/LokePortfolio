@@ -18,7 +18,7 @@ export const socialLinks = {
     instagram: "https://www.instagram.com/1hanzla100",
     twitter: "https://twitter.com/1hanzla100",
     github: "https://github.com/1hanzla100",
-    linkedin: "https://www.linkedin.com/in/hanzla-tauqeer-0869281ba/",
+    linkedin: "https://www.linkedin.com/in/lokeswara-reddy-831802129/",
 };
 
 export const skillsSection = {
@@ -122,9 +122,9 @@ export const SkillBars = [{
 ];
 
 export const educationInfo = [{
-        schoolName: "Harvard University",
-        subHeader: "Master of Science in Computer Science",
-        duration: "September 2017 - April 2019",
+        schoolName: "G Pullaiah College of Engineering And Technology,Kurnool",
+        subHeader: "Bachelor of Technology in Computer Science",
+        duration: "September 2014 - April 2018",
         desc: "Participated in the research of XXX and published 3 papers.",
         descBullets: [
             "Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
